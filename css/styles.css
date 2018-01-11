@@ -24,20 +24,21 @@ body {
 
 .bg-pattern {
   background-color: #E2FF0E;
-  background-image: url("http://uxdesignbookclub.com/img/background-tile.png"); }
+  background-image: url("http://uxdesignbookclub.com/img/background-tile.png");
+  background-size: 720px; }
 
 .shape--square {
   display: block;
-  height: 300px;
+  height: 400px;
   opacity: 0.5;
   transform: rotate(45deg);
   width: 125px; }
 
 .shape--left {
-  left: 0; }
+  left: -1rem; }
 
 .shape--right {
-  right: 0; }
+  right: -1rem; }
 
 .row {
   margin-left: 0;
