@@ -22,6 +22,9 @@ body {
     font-size: 11rem;
     text-transform: uppercase; }
 
+.btn-cta {
+  font-size: 2rem; }
+
 .bg-pattern {
   background-color: #E2FF0E;
   background-image: url("http://uxdesignbookclub.com/img/background-tile-01.png");
@@ -58,3 +61,17 @@ body {
 
 li {
   margin-bottom: 1rem; }
+
+@media screen and (max-width: 991px) {
+  .title {
+    font-size: 4rem; }
+    .title span {
+      font-size: 6rem; } }
+
+@media screen and (max-width: 531px) {
+  .title {
+    font-size: 3rem; }
+    .title span {
+      font-size: 4rem; }
+  .btn-cta {
+    font-size: 1.6rem; } }
