@@ -38,9 +38,11 @@ body {
   width: 125px; }
 
 .shape--left {
+  border-radius: 2rem 2rem 0 0;
   left: -1rem; }
 
 .shape--right {
+  border-radius: 0 0 2rem 2rem;
   right: -1rem; }
 
 .row {
