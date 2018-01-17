@@ -64,6 +64,10 @@ body {
 li {
   margin-bottom: 1rem; }
 
+.community-pic {
+  height: 150px;
+  width: 150px; }
+
 @media screen and (max-width: 991px) {
   .title {
     font-size: 4rem; }
