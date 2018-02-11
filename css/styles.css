@@ -22,6 +22,10 @@ body {
     font-size: 11rem;
     text-transform: uppercase; }
 
+h2 {
+  font-size: 3rem;
+  font-weight: 700; }
+
 .btn-cta {
   font-size: 2rem; }
 
